@@ -2,4 +2,8 @@
 2 Feature 2 is added
 3 Creating two braches
 4 Creating a file for featue_1
+<<<<<<< HEAD
 5 Creating a coflict for Master
+=======
+5 Creating conflict for feature_1
+>>>>>>> feature_1
