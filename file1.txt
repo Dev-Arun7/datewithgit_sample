@@ -2,3 +2,4 @@
 2 Feature 2 is added
 3 Creating two braches
 4 Creating a file for featue_1
+5 Creating a coflict for Master
