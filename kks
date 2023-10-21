@@ -1,0 +1,93 @@
+[33mcommit 9f21ea5830b5e00c5174c3015d75148248daf798[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: ca0cbb2 4b62ad7
+Author: Dev-Arun7 <123arunblakrishnan@gmail.com>
+Date:   Fri Oct 20 21:32:54 2023 +0530
+
+    v5 confilct fixed
+
+[33mcommit ca0cbb2bf91c8d03cae5f8e5ddc0dcbd9ef87b25[m
+Author: Dev-Arun7 <123arunblakrishnan@gmail.com>
+Date:   Fri Oct 20 21:29:12 2023 +0530
+
+    Made a conflic on file1 for master
+
+[33mcommit 4b62ad7a87758828a21ccab9ebc79d9c8f07b2df[m[33m ([m[1;32mfeature_1[m[33m)[m
+Author: Dev-Arun7 <123arunblakrishnan@gmail.com>
+Date:   Fri Oct 20 21:26:17 2023 +0530
+
+    Creating conflict on feture_1
+
+[33mcommit 22d7f0d2df9973dad554cbf545ef1f8cb3754b02[m
+Merge: 50a2c5c 9399abc
+Author: Dev-Arun7 <123arunblakrishnan@gmail.com>
+Date:   Fri Oct 20 21:07:55 2023 +0530
+
+    Merge branch 'feature_1'
+
+[33mcommit 9399abc2e8a6348fb7f9791618c8040f776c9aed[m
+Author: Dev-Arun7 <123arunblakrishnan@gmail.com>
+Date:   Fri Oct 20 21:07:05 2023 +0530
+
+    Text added in file1 for feature_1
+
+[33mcommit 50a2c5c8cdf9721f21b70ceaa6ce4cf3af268c14[m
+Author: Dev-Arun7 <123arunblakrishnan@gmail.com>
+Date:   Fri Oct 20 21:05:02 2023 +0530
+
+    Text added in the hello for master
+
+[33mcommit 18d34d085ee61233ecd8d95bb572fe9232a3a244[m
+Merge: 14c6a56 d0b1d0c
+Author: Dev-Arun7 <123arunblakrishnan@gmail.com>
+Date:   Fri Oct 20 21:02:05 2023 +0530
+
+    Merge branch 'feature_1'
+
+[33mcommit d0b1d0c1195b2c12e0a920c45daccd845ec9f9eb[m
+Author: Dev-Arun7 <123arunblakrishnan@gmail.com>
+Date:   Fri Oct 20 20:51:46 2023 +0530
+
+    feature file is updated to create 2 branches
+
+[33mcommit 14c6a56a295a0b38ecc36fc320fc3bc028c828ea[m
+Author: Dev-Arun7 <123arunblakrishnan@gmail.com>
+Date:   Fri Oct 20 20:44:27 2023 +0530
+
+    v4 m added a text on hello
+
+[33mcommit 14029093dd47aa7340340b7f150ba730ddba68cf[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 86042ee 0858e8d
+Author: Dev-Arun7 <123arunblakrishnan@gmail.com>
+Date:   Fri Oct 20 20:34:03 2023 +0530
+
+    WIP on feature_1: 86042ee v3 Feature 2 is added
+
+[33mcommit 0858e8d3d1ea1d2ad9191b9e67d767167e762692[m
+Author: Dev-Arun7 <123arunblakrishnan@gmail.com>
+Date:   Fri Oct 20 20:34:03 2023 +0530
+
+    index on feature_1: 86042ee v3 Feature 2 is added
+
+[33mcommit 86042eeed1af3d94e21f5787b6a1effe5acfc604[m
+Author: Dev-Arun7 <123arunblakrishnan@gmail.com>
+Date:   Fri Oct 20 19:55:37 2023 +0530
+
+    v3 Feature 2 is added
+
+[33mcommit 0bda26ec1a9c7afa6a87596dceffcd5bee6eed8b[m
+Author: Dev-Arun7 <123arunblakrishnan@gmail.com>
+Date:   Tue Oct 17 21:33:25 2023 +0530
+
+    v2.0 2- File1.txt is added
+
+[33mcommit 6b0e9ce768f0d84048b3fad2f242612344f9d29e[m
+Author: Dev-Arun7 <123arunblakrishnan@gmail.com>
+Date:   Fri Oct 13 09:37:53 2023 +0530
+
+    v1.0  1-Adding a text file
+
+[33mcommit 8dd7ba6b98272866506535f5c2462f4864e2d74c[m
+Author: Dev-Arun7 <123arunblakrishnan@gmail.com>
+Date:   Thu Oct 12 20:38:25 2023 +0530
+
+    First Commit
